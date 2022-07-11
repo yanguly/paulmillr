@@ -21,4 +21,3 @@ Past projects:
 - (2012-2014) [chaplin](https://github.com/chaplinjs/chaplin) - MVC architecture on top of Backbone & CoffeeScript
 - (2011-2014) [es6-shim](https://github.com/paulmillr/es6-shim) - ECMAScript 6 compatibility shims for legacy JS engines
 - (2011) [chieftain](https://github.com/paulmillr/chieftain) - pythonic imageboard
-- [papers.pdf](https://github.com/paulmillr/papers) contains papers i've found interesting & wanted to share
