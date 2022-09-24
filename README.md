@@ -2,7 +2,7 @@
 
 I make projects which help developers to build awesome things. I adore learning more about infosec & austrian economics.
 
-Ping me on [🦅 Twitter](https://twitter.com/paulmillr), check out my [blog](https://paulmillr.com) & [GitLab mirror](https://gitlab.com/paulmillr). You could fund my work with [GitHub Sponsorship](https://github.com/sponsors/paulmillr/) & [Hell Yeah](https://hy.dev). My PGP is [697079DA6878B89](https://paulmillr.com/pgp_proof.txt)
+Ping me on [🦅 Twitter](https://twitter.com/paulmillr), check out my [blog](https://paulmillr.com) & [GitLab mirror](https://gitlab.com/paulmillr). You could fund my work with [GitHub Sponsorship](https://github.com/sponsors/paulmillr/) & [HY](https://hy.dev). My PGP is [697079DA6878B89](https://paulmillr.com/pgp_proof.txt)
 
 🔭 I’m currently working on:
 
