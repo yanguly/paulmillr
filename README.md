@@ -15,9 +15,4 @@ Ping me on [🦅 Twitter](https://twitter.com/paulmillr) / [🐘 Mastodon](https
 - [dotfiles](https://github.com/paulmillr/dotfiles) — colorful and robust configuration files and utilities for Mac, Linux and BSD
 - [chokidar](https://github.com/paulmillr/chokidar) — file watcher that was used in Visual Studio Code with over 40 million downloads per week
 
-🕰 Past projects:
-
-- (2011-2021) [brunch](https://github.com/brunch/brunch) — ancient web app builder with 50+ plugins; was used to build Uber web app in 2012
-- (2012-2014) [chaplin](https://github.com/chaplinjs/chaplin) — MVC architecture on top of Backbone & CoffeeScript
-- (2011-2014) [es6-shim](https://github.com/paulmillr/es6-shim) — ECMAScript 6 compatibility shims for legacy JS engines
-- (2011) [chieftain](https://github.com/paulmillr/chieftain) — pythonic imageboard
+🕰 Archived projects from 2011-2012: [brunch](https://github.com/brunch/brunch) (web app builder with 50+ plugins; was used to build Uber web app in 2012), [chaplin](https://github.com/chaplinjs/chaplin) (Backbone & CoffeeScript MVC framework), [es6-shim](https://github.com/paulmillr/es6-shim), [chieftain](https://github.com/paulmillr/chieftain) (pythonic imageboard)
