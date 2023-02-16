@@ -6,7 +6,7 @@ Ping me on [🦅 Twitter](https://twitter.com/paulmillr) / [🐘 Mastodon](https
 
 🔭 I’m currently working on:
 
-- [**noble:**](https://paulmillr.com/noble/) secure 0-dependency cryptography — [curves](https://github.com/paulmillr/noble-curves) ([secp256k1](https://github.com/paulmillr/noble-secp256k1), [ed25519](https://github.com/paulmillr/noble-ed25519)), [hashes](https://github.com/paulmillr/noble-hashes)
+- [**noble:**](https://paulmillr.com/noble/) 0-dependency cryptography — [curves](https://github.com/paulmillr/noble-curves) ([secp256k1](https://github.com/paulmillr/noble-secp256k1), [ed25519](https://github.com/paulmillr/noble-ed25519)), [hashes](https://github.com/paulmillr/noble-hashes)
 - **scure:** audited non-cryptography — [base](https://github.com/paulmillr/scure-base) (base64, base58, bech32...), [bip32](https://github.com/paulmillr/scure-bip32) (hdkey), [bip39](https://github.com/paulmillr/scure-bip39) (mnemonics), [btc-signer](https://github.com/paulmillr/scure-btc-signer)
 - web3 — [js-eth-cryptography](https://github.com/ethereum/js-ethereum-cryptography), signers ([BTC](https://github.com/paulmillr/micro-btc-signer), [ETH](https://github.com/paulmillr/micro-eth-signer), [SOL](https://github.com/paulmillr/micro-sol-signer)), [micro-web3](https://github.com/paulmillr/micro-web3), [tx-tor-broadcaster](https://github.com/paulmillr/tx-tor-broadcaster)
 - key/password libraries — [ed25519-keygen](https://github.com/paulmillr/ed25519-keygen) (ssh/pgp/tor), [bls12-381-keygen](https://github.com/paulmillr/bls12-381-keygen) (eth2), [otp](https://github.com/paulmillr/micro-otp), [password-generator](https://github.com/paulmillr/micro-password-generator), [aes-gcm](https://github.com/paulmillr/micro-aes-gcm)
