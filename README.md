@@ -2,7 +2,7 @@
 
 I make projects which help developers to build awesome things. I adore learning more about infosec & austrian economics.
 
-Ping me on [🦅 Twitter](https://twitter.com/paulmillr) / [🐘 Mastodon](https://mastodon.social/@paulmillr) / [nostr](https://www.nostr.guru/p/7cb13cde0670e590f02cbe9ea0fcf1e05edbc5cc8a409731fa5436440181cf1d), check out my [blog](https://paulmillr.com). You could fund my work with [GitHub Sponsorship](https://github.com/sponsors/paulmillr/) and [HY](https://hy.dev). My PGP is [697079DA6878B89](https://paulmillr.com/pgp_proof.txt). Backup of all my projects in a single signed file: [github](https://github.com/paulmillr/backup) / [gitlab](https://gitlab.com/paulmillr/backup).
+Ping me on [🦅 Twitter](https://twitter.com/paulmillr) / [🐘 Mastodon](https://mastodon.social/@paulmillr) / [nostr](https://www.nostr.guru/p/7cb13cde0670e590f02cbe9ea0fcf1e05edbc5cc8a409731fa5436440181cf1d), check out my [blog](https://paulmillr.com). You could fund my work with [GitHub Sponsorship](https://github.com/sponsors/paulmillr/) and [HY](https://hy.dev). My PGP is [697079DA6878B89](https://paulmillr.com/pgp_proof.txt). **Backup** of all my projects in a single signed file: [github](https://github.com/paulmillr/backup) / [gitlab](https://gitlab.com/paulmillr/backup).
 
 🔭 I’m currently working on:
 
