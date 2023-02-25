@@ -2,7 +2,7 @@
 
 I make projects which help developers to build awesome things. I adore learning more about infosec & austrian economics.
 
-Ping me on [🦅 Twitter](https://twitter.com/paulmillr) / [🐘 Mastodon](https://mastodon.social/@paulmillr) / [nostr](https://www.nostr.guru/p/7cb13cde0670e590f02cbe9ea0fcf1e05edbc5cc8a409731fa5436440181cf1d), check out my [blog](https://paulmillr.com). You could fund my work with [GitHub Sponsorship](https://github.com/sponsors/paulmillr/) and [HY](https://hy.dev). My PGP is [697079DA6878B89](https://paulmillr.com/pgp_proof.txt). **Backup** of all my projects in a single signed file: [github](https://github.com/paulmillr/backup) / [gitlab](https://gitlab.com/paulmillr/backup).
+Check out my [blog](https://paulmillr.com), [🦅 Twitter](https://twitter.com/paulmillr), [🐘 Mastodon](https://mastodon.social/@paulmillr) & [nostr](https://www.nostr.guru/p/7cb13cde0670e590f02cbe9ea0fcf1e05edbc5cc8a409731fa5436440181cf1d). You could fund my work with [GitHub Sponsorship](https://github.com/sponsors/paulmillr/). My PGP is [697079DA6878B89](https://paulmillr.com/pgp_proof.txt).
 
 🔭 I’m currently working on:
 
@@ -13,4 +13,4 @@ Ping me on [🦅 Twitter](https://twitter.com/paulmillr) / [🐘 Mastodon](https
 - [ed25519-keygen](https://github.com/paulmillr/ed25519-keygen) (ssh/pgp/tor), [bls12-381-keygen](https://github.com/paulmillr/bls12-381-keygen) (eth2), [otp](https://github.com/paulmillr/micro-otp), [password-generator](https://github.com/paulmillr/micro-password-generator), [aes-gcm](https://github.com/paulmillr/micro-aes-gcm), [packed](https://github.com/paulmillr/micro-packed), [steganography](https://github.com/paulmillr/steg)
 - [chokidar](https://github.com/paulmillr/chokidar) (file watcher with 40M downloads/week), [encrypted-dns](https://github.com/paulmillr/encrypted-dns), [dotfiles](https://github.com/paulmillr/dotfiles) (colourful Mac, Linux & BSD configs)
 
-🕰 Old projects from 2011-2012: [brunch](https://github.com/brunch/brunch) (web app builder with 50+ plugins; was used to build Uber web app in 2012), [chaplin](https://github.com/chaplinjs/chaplin) (Backbone & CoffeeScript MVC framework), [es6-shim](https://github.com/paulmillr/es6-shim), [chieftain](https://github.com/paulmillr/chieftain) (pythonic imageboard)
+🕰 Old projects from 2011-2012: [brunch](https://github.com/brunch/brunch) (web app builder with 50+ plugins; was used to build Uber web app in 2012), [chaplin](https://github.com/chaplinjs/chaplin) (Backbone & CoffeeScript MVC framework), [es6-shim](https://github.com/paulmillr/es6-shim), [chieftain](https://github.com/paulmillr/chieftain) (pythonic imageboard). **Backup** of all my projects in a single signed file: [github](https://github.com/paulmillr/backup) / [gitlab](https://gitlab.com/paulmillr/backup).
