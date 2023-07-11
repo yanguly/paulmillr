@@ -6,7 +6,7 @@ Check out my [blog](https://paulmillr.com), ping me on [twitter](https://twitter
 
 🔭 I’m currently working on:
 
-- [**noble:**](https://paulmillr.com/noble/) 0-dependency cryptography — [ciphers](https://github.com/paulmillr/noble-ciphers), [curves](https://github.com/paulmillr/noble-curves) (4kb versions [secp256k1](https://github.com/paulmillr/noble-secp256k1), [ed25519](https://github.com/paulmillr/noble-ed25519)), [hashes](https://github.com/paulmillr/noble-hashes)
+- [**noble:**](https://paulmillr.com/noble/) 0-dependency cryptography — [ciphers](https://github.com/paulmillr/noble-ciphers), [curves](https://github.com/paulmillr/noble-curves) (4kb versions [secp](https://github.com/paulmillr/noble-secp256k1), [ed](https://github.com/paulmillr/noble-ed25519)), [hashes](https://github.com/paulmillr/noble-hashes)
 - **scure:** audited non-cryptography — [base](https://github.com/paulmillr/scure-base) (base64, base58, bech32...), [bip32](https://github.com/paulmillr/scure-bip32) (hdkey), [bip39](https://github.com/paulmillr/scure-bip39) (mnemonics), [btc-signer](https://github.com/paulmillr/scure-btc-signer)
 - **demos:** [nostr.spa](http://nostr.spa), [qr generator & reader](https://paulmillr.com/demos/qr/), [steganography](https://paulmillr.com/demos/steg/), [elliptic curve calculator](https://paulmillr.com/noble/#demo)
 - web3: [js-eth-cryptography](https://github.com/ethereum/js-ethereum-cryptography), signers ([ETH](https://github.com/paulmillr/micro-eth-signer), [SOL](https://github.com/paulmillr/micro-sol-signer)), [micro-web3](https://github.com/paulmillr/micro-web3) (with typed ABIs), [micro-starknet](https://github.com/paulmillr/micro-starknet), [tx-tor-broadcaster](https://github.com/paulmillr/tx-tor-broadcaster)
