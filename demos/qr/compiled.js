@@ -974,6 +974,7 @@ function drawQRBest(ver, ecc, data, maskIdx) {
         throw new Error('Cannot find mask'); // Should never happen
     return drawQR(ver, ecc, data, maskIdx);
 }
+
 function validateECC(ec) {
     if (!ECMode.includes(ec))
         throw new Error(`Invalid error correction mode=${ec}. Expected: ${ECMode}`);
@@ -2047,7 +2048,11 @@ function main() {
     canvas.height = height;
     overlay.width = width;
     overlay.height = height;
-    ctx = { context: canvas.getContext('2d'), height, width };
+    ctx = {
+      context: canvas.getContext("2d", { willReadFrequently: true }),
+      height,
+      width,
+    };
     overlayLoop();
   });
 
